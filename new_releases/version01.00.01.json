@@ -1,0 +1,12 @@
+{
+  "version": "01.00.01",
+  "build_date": "2025-08-16 19:46:59",
+  "whats_new": [
+    "1st ever release",
+    "Initial release of LabMate",
+    "Includes Dilution, Molarity, Percentage Solution, and Dose Calculators",
+    "AI Protocol Generator",
+    "Secure user registration and encrypted data",
+    "Automatic update checking and professional results export"
+  ]
+}
